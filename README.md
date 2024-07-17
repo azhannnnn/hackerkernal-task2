@@ -104,7 +104,4 @@ Implements functionality to export author, book, and borrow record data to separ
 - Implements class-based views (CBVs) wherever possible.
 - Includes appropriate error handling and user notifications.
 
-## Submission
-Ensure your project is thoroughly tested and follows best practices before submission. Provide a link to your GitHub repository containing the project code. 
-
 ---
